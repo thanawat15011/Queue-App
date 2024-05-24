@@ -1,0 +1,87 @@
+{
+  "name": "paovisa-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://Paovisa.com",
+  "dependencies": {
+    "@coreui/coreui": "^4.2.6",
+    "@coreui/react": "^4.8.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.0",
+    "@mui/x-charts": "^6.0.0-alpha.7",
+    "@mui/x-data-grid": "^6.16.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "antd": "^5.6.3",
+    "axios": "^1.3.6",
+    "babel-preset-react-app": "^10.0.1",
+    "bootstrap": "^5.2.3",
+    "chart.js": "^4.4.0",
+    "google-maps-react": "^2.0.6",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "primeflex": "^3.3.0",
+    "primeicons": "^6.0.1",
+    "primereact": "^9.4.0",
+    "quill": "^1.3.7",
+    "react": "^18.2.0",
+    "react-bootstrap-typeahead": "^6.2.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-error-overlay": "6.0.9",
+    "react-google-maps": "^9.4.5",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "5.0.1",
+    "react-sound": "^1.2.0",
+    "redux": "^4.2.1",
+    "socket.io-client": "^4.7.2",
+    "styled-components": "^5.3.10",
+    "sweetalert2": "^11.7.3",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "set PORT=6985 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.0",
+    "@iconify/react": "^4.1.1"
+  },
+  "description": "install npm install chart.js  ลงด้วยไอ่เวร เว็บตายอย่าพึ่งร้อง",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TA-PROGRAM/PaoVisa-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TA-PROGRAM/PaoVisa-App/issues"
+  }
+}
